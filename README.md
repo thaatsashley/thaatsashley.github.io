@@ -10,10 +10,10 @@ Time spent: **1** hours spent in total
 
 The following **required** functionality is completed:
 
-- [X ] User can change the number of letters per row (the length of the goal word)
-- [X ] User can change the numbers of rows on the board (how many guesses allowed)
-- [X ] User can select a new themed set to pull the goal word from
-- [X ] User can select "alien wordle", causing the goal word to change after each guess
+- [x] User can change the number of letters per row (the length of the goal word)(updated)
+- [x] User can change the numbers of rows on the board (how many guesses allowed)(updated)
+- [x] User can select a new themed set to pull the goal word from(updated)
+- [x] User can select "alien wordle", causing the goal word to change after each guess(updated)
 
 
 The following **optional** features are implemented:
@@ -29,9 +29,8 @@ The following **additional** features are implemented:
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
 <div>
-    <a href="https://www.loom.com/share/69d370f9d43142d091c681bd283400fe">
+    <a href="[https://www.loom.com/share/69d370f9d43142d091c681bd283400fe](https://www.loom.com/share/69d370f9d43142d091c681bd283400fe)">
     </a>
-    <a href="https://www.loom.com/share/69d370f9d43142d091c681bd283400fe">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/69d370f9d43142d091c681bd283400fe-with-play.gif">
     </a>
   </div>
